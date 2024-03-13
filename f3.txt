@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6E0C-4287
+
+ Directory of C:\ateliers\app1
+
+03/13/2024  11:16 PM    <DIR>          .
+03/13/2024  11:16 PM    <DIR>          ..
+03/13/2024  11:16 PM               338 f1.txt
+03/13/2024  11:16 PM               385 f2.txt
+03/13/2024  11:16 PM                 0 f3.txt
+               3 File(s)            723 bytes
+               2 Dir(s)  153,561,526,272 bytes free
